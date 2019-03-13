@@ -7,6 +7,10 @@
     {
       "id": 2,
       "name": "Mazda"
+    },
+    {
+      "id": 3,
+      "name": "Honda"
     }
   ],
   "cars": [
@@ -39,6 +43,11 @@
       "id": 6,
       "name": "CX-9",
       "modelId": 2
+    },
+    {
+      "id": 7,
+      "name": "CRV",
+      "modelId": 3
     }
   ]
 }
